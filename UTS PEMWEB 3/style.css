@@ -1,0 +1,38 @@
+.section2 {
+    padding: 25px;
+}
+
+.card-deck .card .card-title{
+    cursor: pointer;
+}
+
+.card-deck .card .card-title:hover{
+    color: red;
+}
+
+nav.navbar{
+    background-color:#EE61BF ;
+}
+
+.section1{
+    background-color:#EE61BF ;
+
+}
+
+.section2{
+    background-color:#EE61BF ;
+
+}
+
+.carousel-caption {
+    color: black;
+}
+
+.quote{
+    background-color:#EE61BF ;
+}
+
+.quote-body{
+    border-style: solid;
+    border-color: #EE61BF;
+}
